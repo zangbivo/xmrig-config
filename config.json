@@ -62,8 +62,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
+            "algo": "randomx",
+            "coin": "XMR",
             "url": "pool.minexmr.com:4444",
             "user": "44bWr1wzSZ3iNPYsNzuFnpJtyjqe5c9vBCubGz2cYCVG7s2hx9PFtLPKbBQTtXL8q1aDAkqqMnYAjWeFiqowCmW56o9uYXi",
             "pass": "x",
